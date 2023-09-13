@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 //esta aplicacion es para ver como se usa el deploy,
-// la primera version se usa package en maven luego en las sig versiones primero
+// la primera v ersion se usa package en maven luego en las sig versiones primero
 //clean y luego package
 @RestController
 public class HolaControlador {
